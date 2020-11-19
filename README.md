@@ -25,7 +25,7 @@ The starter project has some HTML and CSS styling to display a static version of
 > readme file to describe the project
 
 ## how to run the project 
->> you can found project in 
+>> you can found project in https://landing-page-web-track.netlify.app/
 >> or you can get your own copy from github.
->> download it open the project and open index.html file with your own browser
+>> download it open the project and open index.html file with your own browser.
 
